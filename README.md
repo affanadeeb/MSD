@@ -129,41 +129,8 @@ To understand the practical applications of wheel encoders, magnetometers, IMUs,
    - How combining sensors improves accuracy (sensor fusion).  
 
 3. **Student Tasks**:  
-   - Allow students to modify parameters like threshold distances or color detection logic.  
-   - Ask them to analyze errors and propose improvements.  
+   - Allowing students to modify parameters like threshold distances or color detection logic.  
+   - Asking them to analyze errors and propose improvements.  
 
 ---
 
-### **Expected Learning Outcomes**
-
-- Hands-on understanding of sensor principles and their limitations.  
-- Practical application of navigation and obstacle detection techniques.  
-- Basics of sensor data integration and visualization.  
-
-
-
-Got it! We can incorporate these formulas for distance and speed calculation directly into the experimental procedure to make it more aligned with what your professor provided. Here’s the updated approach:
-
----
-
-### **Updated Lab Experiment: Understanding Sensors in Motion with Wheel Encoder**
-
----
-
-#### **Part 3: Conducting the Experiment**
-
----
-
-### **Step 1: Demonstrating the Wheel Encoder**
-
-#### **Objective**  
-Measure the distance traveled and calculate the speed of the toy using the given formulas.
-
-#### **Procedure**  
-
-1. **Understanding the Formula**:  
-   - The distance moved per pulse \( D \) is given by:  
-     \[
-     D = \frac{2\pi r}{NP}
-     \]  
-     
