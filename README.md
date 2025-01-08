@@ -140,4 +140,30 @@ To understand the practical applications of wheel encoders, magnetometers, IMUs,
 - Practical application of navigation and obstacle detection techniques.  
 - Basics of sensor data integration and visualization.  
 
-Would you like more details on any part, such as wiring diagrams or sample code?
+
+
+Got it! We can incorporate these formulas for distance and speed calculation directly into the experimental procedure to make it more aligned with what your professor provided. Here’s the updated approach:
+
+---
+
+### **Updated Lab Experiment: Understanding Sensors in Motion with Wheel Encoder**
+
+---
+
+#### **Part 3: Conducting the Experiment**
+
+---
+
+### **Step 1: Demonstrating the Wheel Encoder**
+
+#### **Objective**  
+Measure the distance traveled and calculate the speed of the toy using the given formulas.
+
+#### **Procedure**  
+
+1. **Understanding the Formula**:  
+   - The distance moved per pulse \( D \) is given by:  
+     \[
+     D = \frac{2\pi r}{NP}
+     \]  
+     
