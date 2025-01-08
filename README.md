@@ -67,10 +67,9 @@ To understand the practical applications of wheel encoders, magnetometers, IMUs,
    - **Activity**: Driving the toy along a straight path (e.g., 1 meter) and recording the encoder readings.  
    - **What to Show**:  
    - Distance traveled per pulse \( D \) is given by:
-     $$
-     D = \frac{2\pi r}{N \cdot P}
-     $$
-
+     \[
+        D = \frac{2\pi r}{NP}
+     \]
      - Compare with actual measured distance using a tape.  
 
 2. **Magnetometer**:  
