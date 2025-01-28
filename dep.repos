@@ -3,3 +3,8 @@ repositories:
     type: git
     url: https://github.com/Slamtec/sllidar_ros2.git
     version: main
+
+  serial-ros2:
+    type: git
+    url: https://github.com/RoverRobotics-forks/serial-ros2.git
+    version: master
